@@ -40,7 +40,7 @@ A simple Python script that generates a `.wav` file of an AI voice saying whatev
 2. Replace the `text_to_speak` variable with your desired text:
    ```python
    text_to_speak = """
-   Hi, I'm a very dum dum AI.
+   Hi I'm very dum dum
    """
    ```
 3. Run the script, and it will generate a `.wav` file named `output.wav` in the same directory.
