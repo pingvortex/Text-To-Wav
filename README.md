@@ -1,4 +1,3 @@
-```markdown
 # Text-To-Wav 🎤
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,8 +21,7 @@ A simple Python script that generates a `.wav` file of an AI voice saying whatev
    ```bash
    git clone https://github.com/your-username/Text-To-Wav.git
    cd Text-To-Wav
-   ```
-
+  
 2. **Install the required dependencies:**
    ```bash
    pip install pyttsx3
