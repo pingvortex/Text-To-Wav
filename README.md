@@ -19,7 +19,7 @@ A simple Python script that generates a `.wav` file of an AI voice saying whatev
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Text-To-Wav.git
+   git clone https://github.com/pingvortex/Text-To-Wav.git
    cd Text-To-Wav
   
 2. **Install the required dependencies:**
