@@ -1,7 +1,7 @@
 # Text-To-Wav 🎤
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Efe5ws6jcP)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5SzkjVJBs2)
 
 A simple Python script that generates a `.wav` file of an AI voice saying whatever text you provide. Perfect for creating quick voiceovers, fun messages, or just experimenting with text-to-speech!
 
